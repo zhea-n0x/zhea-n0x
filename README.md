@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![](computer-work.gif)
+  ![til](computer-work.gif)
 </div>
 
 <!--
