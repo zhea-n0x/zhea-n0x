@@ -15,7 +15,7 @@
 
 <p></p>
 
-:wave: Hi, I'm a multi-talented in the tech and sports. Mostly working on JavaScript with a cup of ☕, strong in Backend such as NodeJS, Sequelize, SQL, and noSQL such as mongoDB. Familiar with Linux, VM Server, and also working on IoT for KMIPN (Kompetisi Mahasiswa Indonesia Politeknik Nasional) and get <strong>Best Implementation</strong> title in that competition.
+:wave: Hi, I'm a tech-enthusiast and loves sports. Mostly working on JavaScript with a cup of ☕, strong in Backend such as NodeJS, Sequelize, SQL, and noSQL such as mongoDB. Familiar with Linux, VM Server, and have also worked on IoT for KMIPN (Kompetisi Mahasiswa Indonesia Politeknik Nasional) and get <strong>Best Implementation</strong> title in that competition.
 
 <!--
 **zhea-n0x/zhea-n0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
