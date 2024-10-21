@@ -17,7 +17,7 @@
 
 :wave: Hi, I'm a tech-enthusiast and loves sports. Mostly working on JavaScript with a cup of ☕, strong in Backend such as NodeJS, Sequelize, SQL, and noSQL such as mongoDB. Familiar with Linux, VM Server, and have also worked on IoT for KMIPN (Kompetisi Mahasiswa Indonesia Politeknik Nasional) and get <strong>Best Implementation</strong> title in that competition. And sometimes doing Frontend things with ReactJS, NextJS, TailwindCSS, and API Integration.
 
-:writing: on Medium sometimes, and hasn't been active for a long time in Youtube :laughing:. Loves UI/Graphic Design, familiar with Figma 🖥️ Currently interested in Architecture Design, and learn more about IoT ☁️
+✍️ on Medium sometimes, and hasn't been active for a long time in Youtube :laughing:. Loves UI/Graphic Design, familiar with Figma 🖥️ Currently interested in Architecture Design, and learn more about IoT ☁️
 
 <!--
 **zhea-n0x/zhea-n0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
