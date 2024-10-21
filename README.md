@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![til](computer-work.gif)
+  <img src="https://github.com/zhea-n0x/zhea-n0x/blob/main/computer-work.gif" width="100"/>
 </div>
 
 <!--
