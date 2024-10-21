@@ -1,4 +1,4 @@
-👋 Hello there, I'm zhea-n0x!
+## :wave: Hello there, I'm zhea-n0x :wave:
 <div id="header" align="center">
     <img src="https://github.com/zhea-n0x/zhea-n0x/blob/main/computer-work.gif" width="150" style="border-radius: 10px"/>
 </div>
