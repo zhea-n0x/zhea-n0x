@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/view/computer-work-online-gif-14640055" width="100"/>
+  <div class="tenor-gif-embed" data-postid="14640055" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-work-online-gif-14640055">Computer Work GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <!--
