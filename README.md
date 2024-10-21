@@ -1,7 +1,9 @@
 <div id="header" align="center">
     <img src="https://github.com/zhea-n0x/zhea-n0x/blob/main/computer-work.gif" width="150" style="border-radius: 10px"/>
 </div>
-
+<span>
+    <img src="." height="150" width="50"
+</span>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
