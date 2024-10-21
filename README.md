@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://github.com/zhea-n0x/zhea-n0x/blob/main/computer-work.gif" width="100" style="border-radius: 100px"/>
+  <kbd>
+    <img src="https://github.com/zhea-n0x/zhea-n0x/blob/main/computer-work.gif" width="100" style="border-radius: 10px"/>
+  </kbd>
 </div>
 
 <!--
